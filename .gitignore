@@ -3,3 +3,5 @@ js
 *.pdf
 *.log
 *.build
+*.db
+
